@@ -17,6 +17,10 @@ Este dashboard interativo foi desenvolvido no Power BI com foco na análise de d
 
 O objetivo deste projeto foi aplicar conceitos de modelagem de dados, DAX e visualização interativa utilizando Power BI, com foco em **desenvolver habilidades práticas em análise de vendas e criação de dashboards empresariais**. Também foi um exercício de transformação de dados brutos em insights estratégicos para tomada de decisão.
 
+## 🎲 Fonte dos Dados
+
+Os dados utilizados neste dashboard são fictícios e foram criados apenas para fins educacionais e de demonstração durante o intensivão de Power BI da [Hashtagtreinamentos](https://www.hashtagtreinamentos.com).
+
 ## 🔗 Acesse o Dashboard Online
 
 [Clique aqui para acessar o dashboard interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiODZhNTYwNGEtM2U0ZC00NTgxLWJjMWItMTg5MzI3MjczMDIzIiwidCI6ImRiYTQ3MzJjLTU5ZWMtNDFlYi05NDdjLTdkN2UxOTUzOWRhYSJ9)
